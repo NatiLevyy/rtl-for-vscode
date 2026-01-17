@@ -1,0 +1,3 @@
+@echo off
+echo Starting RTL Installation...
+powershell -ExecutionPolicy Bypass -File "%~dp0install.ps1"
